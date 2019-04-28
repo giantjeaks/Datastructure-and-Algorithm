@@ -1,2 +1,4 @@
 # Datastructure-and-Algorithm
-Necessary Data structure.
+
+
+Necessary Data structure for Beginners.
