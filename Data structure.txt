@@ -22,3 +22,18 @@ Sets
 -Subset(otherSet) => (Bool) Return if the set is a subset of a different set.
 
 /////
+
+
+Queue and Priority Queue
+    - Similar to stack but do a first in first out.
+
+- print => (Array) Print out a collection Queue
+- enqueue => Push a element in to Queue
+- dequeue => Pull off the 1st item of array
+- front => (Element type) Return an element first index (just return not delete)
+- size => (int) Return a size of queue.
+- isEmpty => (Bool) Check if collection is empty.
+
+Priority Queue 
+    - Same as Queue but we collect the prior the bigger is the first one.
+    
