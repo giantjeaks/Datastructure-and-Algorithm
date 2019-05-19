@@ -44,7 +44,7 @@ Necessary Data structure for Beginners.
     - Same as Queue but we collect the prior the bigger is the first one.
 
 
-# Binary Search Tree
+# Binary Search Tree :evergreen_tree:
     - Store data like a tree that only have 2 branches the less on the left and the greater on the right.
 
 - class Node use for  Schema of Data 
