@@ -4,7 +4,7 @@
 Necessary Data structure for Beginners.
 
 
-# Stack 
+# Stack :books:
     - seems like a layer of books the fisrt one is in deepest and another stack on top.
 
 - pop ->  Removes and returns the value at the end of the stack
@@ -13,7 +13,7 @@ Necessary Data structure for Beginners.
 
 
 
-# Sets 
+# Sets :gift:
     - Work like array with no duplicate members and no particular order.
 
 - has(e) => (Bool)Check if the set has an e or not.  
@@ -30,7 +30,7 @@ Necessary Data structure for Beginners.
 
 
 
-# Queue and Priority Queue
+# Queue and Priority Queue :necktie:
     - Similar to stack but do a first in first out.
 
 - print => (Array) Print out a collection Queue
