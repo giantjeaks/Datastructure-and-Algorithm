@@ -42,3 +42,22 @@ Necessary Data structure for Beginners.
 
 # Priority Queue 
     - Same as Queue but we collect the prior the bigger is the first one.
+
+
+# Binary Search Tree
+    - Store data like a tree that only have 2 branches the less on the left and the greater on the right.
+
+- class Node use for  Schema of Data 
+- Add(data) - keep searching on the left(less than root) or on the right (more than root) and insert data.
+- findMin() - keep searching into left side of the tree if it has no another left it's min node.
+- findMax() - seem like findMin() but for the right side.
+- isPresent(data) - check if data in tree 
+- Remove(data) - Remove data in tree and re-structure tree.
+- Height() - Return a level of node that root is 0.
+- findMinHeight() - Return a minimum value of tree's Height.
+- findMaxHeight() - Return a maximum value of tree's Height. 
+
+- inOrder() - min to max
+- preOrder() - root,left most,right most
+- postOrder() - left most,right,root
+- levelOrder() - Sequentially tree's  level
