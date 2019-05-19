@@ -5,7 +5,7 @@ Necessary Data structure for Beginners.
 
 
 # Stack 
-    - seems like a layer of books the fisrt one is in deepest ane another stack on top.
+    - seems like a layer of books the fisrt one is in deepest and another stack on top.
 
 - pop ->  Removes and returns the value at the end of the stack
 - peek -> Returns the value at the end of the stack.
