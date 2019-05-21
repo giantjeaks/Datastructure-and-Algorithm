@@ -64,7 +64,7 @@ Necessary Data structure for Beginners.
 
 
 # Hash table 📅
-    - Use to implement associate arrays of mapping key value pairs
+    - Use to implement associate arrays or mapping key value pairs
     - buckets is storage limit
 - How its Work 
     its get a keys and put in to hash function and store a hash value if 1 keys store same number its call collision widely use because of efficiency
