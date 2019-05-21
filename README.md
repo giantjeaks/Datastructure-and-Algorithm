@@ -75,4 +75,5 @@ Necessary Data structure for Beginners.
     - Common structure for list that link to next node.
     - Array vs Linked list
     |Array|Linked list|
+    |-----|-----------|
     |-Fixed size|-Dynamic size|
