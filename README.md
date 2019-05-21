@@ -73,8 +73,10 @@ Necessary Data structure for Beginners.
 
 # Linked List :balloon:
     - Common structure for list that link to next node.
-    - Array vs Linked list
-| First Header  | Second Header |
+| Array  | Linked List |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Fix size | Dynamic Size  |
+| Inefficient insertions and deletion | Efficient insertions and Deletion |
+| Random access i.e., efficient indexing | **No** random access |
+| memory waste(maybe) | **No** waste of memory |
+| Sequential access is faster | Sequential access is slow |
