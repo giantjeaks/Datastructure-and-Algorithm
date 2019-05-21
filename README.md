@@ -70,3 +70,6 @@ Necessary Data structure for Beginners.
     its get a keys and put in to hash function and store a hash value if 1 keys store same number its call collision widely use because of efficiency
 - Collision 
      if we have keys use same value we must use iterator for store data (bucket)
+
+# Linked List :balloon:
+    - Common structure for list that link to next node.
