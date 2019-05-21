@@ -80,3 +80,11 @@ Necessary Data structure for Beginners.
 | Random access i.e., efficient indexing | **No** random access |
 | memory waste(maybe) | **No** waste of memory |
 | Sequential access is faster | Sequential access is slow |
+
+- Add() insert new node after exist one.
+- Remove() Remove node and re-link list.
+- isEmpty() return length === 0
+- indexOf() return an index of node.
+- elementAt() count index to input and make it current node.
+- addAt() Add node specifie index.
+- removeAt() Remove at specific index.
