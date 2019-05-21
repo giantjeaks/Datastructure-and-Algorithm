@@ -61,3 +61,12 @@ Necessary Data structure for Beginners.
 - preOrder() - root,left most,right most
 - postOrder() - left most,right,root
 - levelOrder() - Sequentially tree's  level
+
+
+# Hash table 📅
+    - Use to implement associate arrays of mapping key value pairs
+    - buckets is storage limit
+- How its Work 
+    its get a keys and put in to hash function and store a hash value if 1 keys store same number its call collision widely use because of efficiency
+- Collision 
+     if we have keys use same value we must use iterator for store data (bucket)
