@@ -30,7 +30,7 @@ Necessary Data structure for Beginners.
 
 
 
-# Queue and Priority Queue :necktie:
+# Queue 🚶🚶🚶🚶🏻
     - Similar to stack but do a first in first out.
 
 - print => (Array) Print out a collection Queue
@@ -40,7 +40,7 @@ Necessary Data structure for Beginners.
 - size => (int) Return a size of queue.
 - isEmpty => (Bool) Check if collection is empty.
 
-# Priority Queue 
+# Priority Queue :necktie:
     - Same as Queue but we collect the prior the bigger is the first one.
 
 
