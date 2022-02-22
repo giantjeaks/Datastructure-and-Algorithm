@@ -9,7 +9,7 @@ Necessary Data structure for Beginners.
 
 - pop ->  Removes and returns the value at the end of the stack
 - peek -> Returns the value at the end of the stack.
-- push -> Put the velue on to the end of stack.
+- push -> Put the value on to the end of stack.
 
 
 
